@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AppRun" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.ataccama.homework.AtaccamaDbBrowserApp" />
+    <module name="ataccama" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
